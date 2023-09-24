@@ -1,0 +1,5 @@
+{
+  "dart.flutterSdkPath": "/home/wilmar/snap/flutter/common/flutter",
+  "dart.flutterRunLogFile": "logs/flutter.log",
+  "dart.flutterRunAdditionalArgs": ["--no-pub"]
+}
